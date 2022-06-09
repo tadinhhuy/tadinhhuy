@@ -6,9 +6,9 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=tadinhhuy&style=flat-square&color=blue" alt=""/>
-  <h1>
-    Hi there
-  </h1>
+  <p>
+    "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
+  </p>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
