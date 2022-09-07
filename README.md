@@ -1,7 +1,6 @@
 <div>
   <p>
-    "Every great developer you know got there by solving problems they were
-    unqualified to solve until they actually did it." - Patrick McKenzie
+    Learning never exhausts the mind. - Leonardo da Vinci
   </p>
   <div id="header" align="center">
     <img
