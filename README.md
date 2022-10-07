@@ -1,6 +1,6 @@
 <div>
   <p>
-    Learning never exhausts the mind. - Leonardo da Vinci
+    To live is the rarest thing in the world. Most people exist, that is all. ― Oscar Wilde
   </p>
   <div id="header" align="center">
     <div id="badges">
