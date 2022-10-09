@@ -1,6 +1,6 @@
 <div>
   <p>
-    To live is the rarest thing in the world. Most people exist, that is all. ― Oscar Wilde
+    The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
   </p>
   <div id="header" align="center">
     <div id="badges">
