@@ -1,6 +1,6 @@
 <div>
   <p>
-    The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
+    You only live once, but if you do it right, once is enough. — Mae West
   </p>
   <div id="header" align="center">
     <div id="badges">
