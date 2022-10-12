@@ -1,6 +1,6 @@
 <div>
   <p>
-    You only live once, but if you do it right, once is enough. — Mae West
+    Get busy living or get busy dying. — Stephen King
   </p>
   <div id="header" align="center">
     <div id="badges">
