@@ -1,6 +1,6 @@
 <div>
   <p>
-     Money and success don’t change people; they merely amplify what is already there. — Will Smith
+     Not how long, but how well you have lived is the main thing. — Seneca
   </p>
   <div id="header" align="center">
     <div id="badges">
