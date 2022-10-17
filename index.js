@@ -49,7 +49,7 @@ const generate = async () => {
 
   if (!quote) return;
 
-  fs.writeFileSync('README.md', generateTemplate(quote, author));
+  fs.writeFileSync('README.md', generateTemplate({ quote, author }));
 };
 
 generate();
