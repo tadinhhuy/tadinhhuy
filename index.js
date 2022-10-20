@@ -1,5 +1,5 @@
-import { get } from 'axios';
-import { writeFileSync } from 'fs';
+const axios = require('axios');
+const fs = require('fs');
 
 const generateTemplate = ({ quote, author }) => `
   <div>
@@ -30,7 +30,7 @@ const HOST_API = 'https://quotes.rest/qod?language=en&quot;';
 
 const getQuote = async () => {
   try {
-    const { data } = await get(HOST_API);
+    const { data } = await axios.get(HOST_API);
     const quote = data.contents.quotes[0].quote;
     const author = data.contents.quotes[0].author;
 
@@ -49,7 +49,7 @@ const generate = async () => {
 
   if (!quote) return;
 
-  writeFileSync('README.md', generateTemplate({ quote, author }));
+  fs.writeFileSync('README.md', generateTemplate({ quote, author }));
 };
 
 generate();
