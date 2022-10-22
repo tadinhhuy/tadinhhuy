@@ -4,7 +4,7 @@ const fs = require('fs');
 const generateTemplate = ({ quote, author }) => `
   <div>
     <p>
-      _**${quote}**_ - ${author}
+      ${quote} -- ${author}
     </p>
     <div id="header" align="center">
       <div id="badges">
