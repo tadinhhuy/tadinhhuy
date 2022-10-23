@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      _**Stop complaining. Start creating.**_ - Dale Patridge
+      Think in terms of opportunities and solutions instead of problems, disappointment, and failure. -- Lorii Myers
     </p>
     <div id="header" align="center">
       <div id="badges">
