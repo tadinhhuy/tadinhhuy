@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Think in terms of opportunities and solutions instead of problems, disappointment, and failure. -- Lorii Myers
+      Don't count the days; make the days count. -- Mohamad Ali
     </p>
     <div id="header" align="center">
       <div id="badges">
