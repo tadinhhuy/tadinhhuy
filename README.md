@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      The journey of a thousand miles begins with one step. -- Lao Tzu
+      What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting! -- Larry Page
     </p>
     <div id="header" align="center">
       <div id="badges">
