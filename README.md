@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Winning isn't everything.. It's the only thing. -- Vincent van Gogh
+      A man who has no imagination has no wings. -- Mohamad Ali
     </p>
     <div id="header" align="center">
       <div id="badges">
