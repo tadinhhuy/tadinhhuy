@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      A man who has no imagination has no wings. -- Mohamad Ali
+      Let our advance worrying become advance thinking and planning. - Winston Churchill
     </p>
     <div id="header" align="center">
       <div id="badges">
