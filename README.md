@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      The best way to predict the future is to create it. - Abraham Lincoln
+      It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about. - Dale Carnegie
     </p>
     <div id="header" align="center">
       <div id="badges">
