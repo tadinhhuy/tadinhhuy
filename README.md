@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      If I work as hard as I can, I wonder how much I can do in a day? - Ezra Taft Benson
+      When it comes to winning, you need the skill and the will. - Frank Tyger
     </p>
     <div id="header" align="center">
       <div id="badges">
