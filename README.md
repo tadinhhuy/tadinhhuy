@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      When it comes to winning, you need the skill and the will. - Frank Tyger
+      It is easy to sit up and take notice, What is difficult is getting up and taking action. - Honore de Balzac
     </p>
     <div id="header" align="center">
       <div id="badges">
