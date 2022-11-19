@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Luck is a dividend of sweat. The more you sweat, the luckier you get - Ray Kroc
+      If you're changing the world, you're working on important things. You're excited to get up in the morning. - Larry Page
     </p>
     <div id="header" align="center">
       <div id="badges">
