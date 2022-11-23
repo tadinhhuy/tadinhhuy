@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      If you don't have confidence, you'll always find a way not to win - Carl Lewis
+      Do the best you can until you know better. Then when you know better, do better. - Maya Angelou
     </p>
     <div id="header" align="center">
       <div id="badges">
