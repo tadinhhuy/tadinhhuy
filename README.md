@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Do the best you can until you know better. Then when you know better, do better. - Maya Angelou
+      What you do speaks so loudly that I cannot hear what you say. - Ralph Waldo Emerson
     </p>
     <div id="header" align="center">
       <div id="badges">
