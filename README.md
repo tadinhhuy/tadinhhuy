@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      What you do speaks so loudly that I cannot hear what you say. - Ralph Waldo Emerson
+      When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life. - Jean Shinoda Bolen
     </p>
     <div id="header" align="center">
       <div id="badges">
