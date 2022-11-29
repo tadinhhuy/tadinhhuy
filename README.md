@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go. - Isaac Lidsky
+      Life is 10% what happens to us and 90% how we react to it. - Dennis P. Kimbro
     </p>
     <div id="header" align="center">
       <div id="badges">
