@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Core passions and aspirations should be consistent and in sync. - Lorii Myers
+      You will never win if you never begin. - Helen Rowland
     </p>
     <div id="header" align="center">
       <div id="badges">
