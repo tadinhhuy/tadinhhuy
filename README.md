@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      If you can consciously let yourself get taken and see where you go, that's an exercise. That's discipline. To follow the scent. Let yourself go and see what happens, that takes a bit of courage. - Bill Murray
+      Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game. - Voltaire
     </p>
     <div id="header" align="center">
       <div id="badges">
