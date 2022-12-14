@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Let go of who you think you're supposed to be; embrace who you are. - Brene Brown
+      The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers. - Martina Navratilova
     </p>
     <div id="header" align="center">
       <div id="badges">
