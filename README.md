@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      People who are crazy enough to think they can change the world, are the ones who do. - Apple Computers
+      What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am? - Brene Brown
     </p>
     <div id="header" align="center">
       <div id="badges">
