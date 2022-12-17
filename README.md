@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am? - Brene Brown
+      Your overnight success story is always a result of everything you have done in your life until that moment. - Bel Pesce
     </p>
     <div id="header" align="center">
       <div id="badges">
