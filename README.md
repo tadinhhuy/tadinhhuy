@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Your life does not get better by chance. It gets better by change. - Jim Rohn
+      Where there is ruin, there is hope for a treasure. - Rumi
     </p>
     <div id="header" align="center">
       <div id="badges">
