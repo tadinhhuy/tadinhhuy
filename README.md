@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Where there is ruin, there is hope for a treasure. - Rumi
+      Win any way as long as you can get away with it. Nice guys finish last. - Leo Durocher
     </p>
     <div id="header" align="center">
       <div id="badges">
