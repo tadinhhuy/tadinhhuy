@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Win any way as long as you can get away with it. Nice guys finish last. - Leo Durocher
+      Failure is the condiment that gives success its flavor. - Truman Capote
     </p>
     <div id="header" align="center">
       <div id="badges">
