@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Failure is the condiment that gives success its flavor. - Truman Capote
+      Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers. - Veronica A. Shoffstall
     </p>
     <div id="header" align="center">
       <div id="badges">
