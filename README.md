@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers. - Veronica A. Shoffstall
+      Whether you think you can or think you can't, you're right.. - Henry Ford
     </p>
     <div id="header" align="center">
       <div id="badges">
