@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Whether you think you can or think you can't, you're right.. - Henry Ford
+      Find a purpose in life so big it will challenge every capacity to be at your best. - David O. McKay
     </p>
     <div id="header" align="center">
       <div id="badges">
