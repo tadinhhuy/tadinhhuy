@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Find a purpose in life so big it will challenge every capacity to be at your best. - David O. McKay
+      Let our advance worrying become advance thinking and planning. - Winston Churchill
     </p>
     <div id="header" align="center">
       <div id="badges">
