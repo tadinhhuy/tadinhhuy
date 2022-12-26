@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Let our advance worrying become advance thinking and planning. - Winston Churchill
+      Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance. - Lorii Myers
     </p>
     <div id="header" align="center">
       <div id="badges">
