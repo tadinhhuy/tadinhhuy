@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      He who is not courageous enough to take risks will accomplish nothing in life. - Mohamad Ali
+      If I work as hard as I can, I wonder how much I can do in a day? - Ezra Taft Benson
     </p>
     <div id="header" align="center">
       <div id="badges">
