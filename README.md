@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      If I work as hard as I can, I wonder how much I can do in a day? - Ezra Taft Benson
+      Extend beyond your preconceived limits! - Lorii Myers
     </p>
     <div id="header" align="center">
       <div id="badges">
