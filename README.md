@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Extend beyond your preconceived limits! - Lorii Myers
+      You must have a positive self perception in order to transcend anything. - Steve Maraboli
     </p>
     <div id="header" align="center">
       <div id="badges">
