@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      You must have a positive self perception in order to transcend anything. - Steve Maraboli
+      Excellence prospers in the absence of excuses. - Lorii Myers
     </p>
     <div id="header" align="center">
       <div id="badges">
