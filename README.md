@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Excellence prospers in the absence of excuses. - Lorii Myers
+      Remember that you are very special, no one can play your role better than you. - Damayanti Patra
     </p>
     <div id="header" align="center">
       <div id="badges">
