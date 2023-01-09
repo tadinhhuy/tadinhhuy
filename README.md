@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      I know for sure that what we dwell on is who we become. - Oprah Winfrey
+      Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track. - Matthew Keith Groves
     </p>
     <div id="header" align="center">
       <div id="badges">
