@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track. - Matthew Keith Groves
+      A man who has no imagination has no wings. - Mohamad Ali
     </p>
     <div id="header" align="center">
       <div id="badges">
