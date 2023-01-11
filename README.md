@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      A man who has no imagination has no wings. - Mohamad Ali
+      The journey of a thousand miles begins with one step. - Lao Tzu
     </p>
     <div id="header" align="center">
       <div id="badges">
