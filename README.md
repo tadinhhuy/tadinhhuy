@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      The journey of a thousand miles begins with one step. - Lao Tzu
+      Winning is nice if you don't lose your integrity in the process. - Arnold Horshak
     </p>
     <div id="header" align="center">
       <div id="badges">
