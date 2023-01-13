@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Winning is nice if you don't lose your integrity in the process. - Arnold Horshak
+      Winning is not everything, but the effort to win is. - Zig Ziglar
     </p>
     <div id="header" align="center">
       <div id="badges">
