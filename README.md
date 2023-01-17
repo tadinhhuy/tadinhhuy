@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Think in terms of opportunities and solutions instead of problems, disappointment, and failure. - Lorii Myers
+      Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them. - Napoleon Bonaparte
     </p>
     <div id="header" align="center">
       <div id="badges">
