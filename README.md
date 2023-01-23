@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them. - Henry David Thoreau
+      Winning is nice if you don't lose your integrity in the process. - Arnold Horshak
     </p>
     <div id="header" align="center">
       <div id="badges">
