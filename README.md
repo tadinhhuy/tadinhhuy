@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing. - Vincent Van Gogh
+      There's such a thin line between winning and losing. - John R. Tunis
     </p>
     <div id="header" align="center">
       <div id="badges">
