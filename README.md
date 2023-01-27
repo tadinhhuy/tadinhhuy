@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Some men see things as they are and say why.. I dream things that never were and say why not. - George Bernard Shaw
+      I am an optimist. It does not seem too much use being anything else.. - Winston Churchill
     </p>
     <div id="header" align="center">
       <div id="badges">
