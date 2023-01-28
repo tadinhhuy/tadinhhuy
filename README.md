@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      I am an optimist. It does not seem too much use being anything else.. - Winston Churchill
+      Stop complaining. Start creating. - Dale Patridge
     </p>
     <div id="header" align="center">
       <div id="badges">
