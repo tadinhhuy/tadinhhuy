@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Even if you're on the right track, you'll get run over if you just sit there.. - Will Rogers
+      Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers. - Veronica A. Shoffstall
     </p>
     <div id="header" align="center">
       <div id="badges">
