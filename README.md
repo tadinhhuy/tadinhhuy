@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Don't be tempted to break momentum-work through it. - Lorii Myers
+      Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go. - Isaac Lidsky
     </p>
     <div id="header" align="center">
       <div id="badges">
