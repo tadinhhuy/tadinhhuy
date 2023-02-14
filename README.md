@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Persistence is very important. You should not give up unless you are forced to give up. - Elon Musk
+      If you want to make your dreams come true, the first thing you have to do is wake up. - J.M. Power
     </p>
     <div id="header" align="center">
       <div id="badges">
