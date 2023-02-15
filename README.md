@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      If you want to make your dreams come true, the first thing you have to do is wake up. - J.M. Power
+      Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does. - Lorii Myers
     </p>
     <div id="header" align="center">
       <div id="badges">
