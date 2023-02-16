@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does. - Lorii Myers
+      It is easy to sit up and take notice, What is difficult is getting up and taking action. - Honore de Balzac
     </p>
     <div id="header" align="center">
       <div id="badges">
