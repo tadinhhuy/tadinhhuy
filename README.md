@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Stop complaining. Start creating. - Dale Patridge
+      If you cannot do great things, do small things in a great way. - Napoleon Hill
     </p>
     <div id="header" align="center">
       <div id="badges">
