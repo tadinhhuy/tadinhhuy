@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      If you cannot do great things, do small things in a great way. - Napoleon Hill
+      Failure is the condiment that gives success its flavor. - Truman Capote
     </p>
     <div id="header" align="center">
       <div id="badges">
