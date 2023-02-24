@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Failure is the condiment that gives success its flavor. - Truman Capote
+      Things are not bad in themselves, but our cowardice makes them so. - Michel de Montaigne
     </p>
     <div id="header" align="center">
       <div id="badges">
