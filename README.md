@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Things are not bad in themselves, but our cowardice makes them so. - Michel de Montaigne
+      Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot! - Daireth Winehouse
     </p>
     <div id="header" align="center">
       <div id="badges">
