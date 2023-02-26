@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot! - Daireth Winehouse
+      We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light - Mary Dunbar
     </p>
     <div id="header" align="center">
       <div id="badges">
