@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about. - Dale Carnegie
+      People rise to the occasion without hesitation when they feel inspired and challenged. - Lorii Myers
     </p>
     <div id="header" align="center">
       <div id="badges">
