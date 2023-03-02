@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      People rise to the occasion without hesitation when they feel inspired and challenged. - Lorii Myers
+      Stress is like a pulse, if you have it you are alive. - Steve Maraboli
     </p>
     <div id="header" align="center">
       <div id="badges">
