@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      If you're changing the world, you're working on important things. You're excited to get up in the morning. - Larry Page
+      There's such a thin line between winning and losing. - John R. Tunis
     </p>
     <div id="header" align="center">
       <div id="badges">
