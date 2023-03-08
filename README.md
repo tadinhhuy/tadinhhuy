@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      There's such a thin line between winning and losing. - John R. Tunis
+      Whether you think you can or think you can't, you're right.. - Henry Ford
     </p>
     <div id="header" align="center">
       <div id="badges">
