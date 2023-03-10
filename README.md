@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Whether you think you can or think you can't, you're right.. - Henry Ford
+      I keep asking myself these three questions.. What do you have? What do you want? What will you give up? - Jack Ma
     </p>
     <div id="header" align="center">
       <div id="badges">
