@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      I keep asking myself these three questions.. What do you have? What do you want? What will you give up? - Jack Ma
+      Some men see things as they are and say why.. I dream things that never were and say why not. - George Bernard Shaw
     </p>
     <div id="header" align="center">
       <div id="badges">
