@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Some men see things as they are and say why.. I dream things that never were and say why not. - George Bernard Shaw
+      Winning is nice if you don't lose your integrity in the process. - Arnold Horshak
     </p>
     <div id="header" align="center">
       <div id="badges">
