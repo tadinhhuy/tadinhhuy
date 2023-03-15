@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Find a purpose in life so big it will challenge every capacity to be at your best. - David O. McKay
+      Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance. - Lorii Myers
     </p>
     <div id="header" align="center">
       <div id="badges">
