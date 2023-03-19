@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      If you like what you do, and you're lucky enough to be good at it, do it for that reason. - Phil Grimshaw
+      Sustenance! Your health is always the best prescription. - Lorii Myers
     </p>
     <div id="header" align="center">
       <div id="badges">
