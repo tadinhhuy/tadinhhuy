@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Sustenance! Your health is always the best prescription. - Lorii Myers
+      Your overnight success story is always a result of everything you have done in your life until that moment. - Bel Pesce
     </p>
     <div id="header" align="center">
       <div id="badges">
