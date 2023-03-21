@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Your overnight success story is always a result of everything you have done in your life until that moment. - Bel Pesce
+      A man can suffer to bring a group of people to success, not the other way. - Ganesh
     </p>
     <div id="header" align="center">
       <div id="badges">
