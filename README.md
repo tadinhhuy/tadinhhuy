@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength. - Jack Ma
+      The tennis ball doesn't know how old I am. The ball doesn't know if I'm a man or a woman or if I come from a communist country or not. Sport has always broken down these barriers. - Martina Navratilova
     </p>
     <div id="header" align="center">
       <div id="badges">
