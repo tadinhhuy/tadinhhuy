@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Beyond a certain point there is no return. This point has to be reached. - Franz Kafka
+      When there is no distraction, there is clarity. - Lorii Myers
     </p>
     <div id="header" align="center">
       <div id="badges">
