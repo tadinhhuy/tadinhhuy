@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      When there is no distraction, there is clarity. - Lorii Myers
+      Do not let what you cannot do interfere with what you can do. - John Wooden
     </p>
     <div id="header" align="center">
       <div id="badges">
