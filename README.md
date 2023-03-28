@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Do not let what you cannot do interfere with what you can do. - John Wooden
+      Do the best you can until you know better. Then when you know better, do better. - Maya Angelou
     </p>
     <div id="header" align="center">
       <div id="badges">
