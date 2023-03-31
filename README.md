@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Don't be afraid of losing, be afraid of playing a game and not learning something. - Dan Heisman
+      Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome. - Brene Brown
     </p>
     <div id="header" align="center">
       <div id="badges">
