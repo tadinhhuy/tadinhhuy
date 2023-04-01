@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome. - Brene Brown
+      Great things are done by a series of small things brought together. - Vincent Van Gogh
     </p>
     <div id="header" align="center">
       <div id="badges">
