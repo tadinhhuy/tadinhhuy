@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose. - Steve Jobs
+      Hang Out with People Who are Better than You. - Warren Buffett
     </p>
     <div id="header" align="center">
       <div id="badges">
