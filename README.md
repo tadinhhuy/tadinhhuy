@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      Hang Out with People Who are Better than You. - Warren Buffett
+      The best preparation for tomorrow is doing your best today. H. - Jackson Brown, Jr
     </p>
     <div id="header" align="center">
       <div id="badges">
