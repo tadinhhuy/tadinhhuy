@@ -1,7 +1,7 @@
 
   <div>
     <p>
-      The best preparation for tomorrow is doing your best today. H. - Jackson Brown, Jr
+      You cannot escape the responsibility of tomorrow by evading it today. - Abraham Lincoln
     </p>
     <div id="header" align="center">
       <div id="badges">
