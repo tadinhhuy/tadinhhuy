@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      You cannot escape the responsibility of tomorrow by evading it today. - Abraham Lincoln
+      Yesterday is but today's memory, and tomorrow is today's dream. - Khalil Gibran
     </p>
   </div>
   <div align="center">
