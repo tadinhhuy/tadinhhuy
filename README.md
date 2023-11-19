@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Yesterday is but today's memory, and tomorrow is today's dream. - Khalil Gibran
+      If you fell down yesterday, stand up today. - H. G. Wells
     </p>
   </div>
   <div align="center">
