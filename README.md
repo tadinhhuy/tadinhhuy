@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      If you fell down yesterday, stand up today. - H. G. Wells
+      Worry does not empty tomorrow of its sorrow. It empties today of its strength. - Corrie Ten Boom
     </p>
   </div>
   <div align="center">
