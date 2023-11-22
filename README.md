@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Worry does not empty tomorrow of its sorrow. It empties today of its strength. - Corrie Ten Boom
+      One good thing about music, when it hits you, you feel no pain. - Bob Marley
     </p>
   </div>
   <div align="center">
