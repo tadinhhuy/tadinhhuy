@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      One good thing about music, when it hits you, you feel no pain. - Bob Marley
+      The future starts today, not tomorrow. - Pope John Paul II
     </p>
   </div>
   <div align="center">
