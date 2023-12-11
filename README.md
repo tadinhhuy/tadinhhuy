@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      The future starts today, not tomorrow. - Pope John Paul II
+      I wouldn't be where I am today without the amazing public arts education that I had. - Matthew Morrison
     </p>
   </div>
   <div align="center">
