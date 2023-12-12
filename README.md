@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      I wouldn't be where I am today without the amazing public arts education that I had. - Matthew Morrison
+      The best preparation for tomorrow is doing your best today. - H. Jackson Brown, Jr.
     </p>
   </div>
   <div align="center">
