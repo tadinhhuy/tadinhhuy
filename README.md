@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      The best preparation for tomorrow is doing your best today. - H. Jackson Brown, Jr.
+      Today or any day that phone may ring and bring good news. - Ethel Waters
     </p>
   </div>
   <div align="center">
