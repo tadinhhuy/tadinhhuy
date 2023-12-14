@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Today or any day that phone may ring and bring good news. - Ethel Waters
+      Yesterday is but today's memory, and tomorrow is today's dream. - Khalil Gibran
     </p>
   </div>
   <div align="center">
