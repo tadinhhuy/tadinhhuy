@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Today you are you! That is truer than true! There is no one alive who is you-er than you! - Dr. Seuss
+      Someone is sitting in the shade today because someone planted a tree a long time ago. - Warren Buffett
     </p>
   </div>
   <div align="center">
