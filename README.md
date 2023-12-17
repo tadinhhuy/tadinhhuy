@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Someone is sitting in the shade today because someone planted a tree a long time ago. - Warren Buffett
+      Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
     </p>
   </div>
   <div align="center">
