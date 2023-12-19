@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
+      The science of today is the technology of tomorrow. - Edward Teller
     </p>
   </div>
   <div align="center">
