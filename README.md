@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      The science of today is the technology of tomorrow. - Edward Teller
+      Yesterday's home runs don't win today's games. - Babe Ruth
     </p>
   </div>
   <div align="center">
