@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present. - Joan Rivers
+      Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
     </p>
   </div>
   <div align="center">
