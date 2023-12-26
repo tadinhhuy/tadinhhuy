@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
+      I always hope to be a better person tomorrow than today. - Mahershala Ali
     </p>
   </div>
   <div align="center">
