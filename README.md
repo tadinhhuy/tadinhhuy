@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      The best preparation for tomorrow is doing your best today. - H. Jackson Brown, Jr.
+      Never forget the three powerful resources you always have available to you: love, prayer, and forgiveness. - H. Jackson Brown, Jr.
     </p>
   </div>
   <div align="center">
