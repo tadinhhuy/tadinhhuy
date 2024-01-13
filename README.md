@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Never forget the three powerful resources you always have available to you: love, prayer, and forgiveness. - H. Jackson Brown, Jr.
+      Dream as if you'll live forever. Live as if you'll die today. - James Dean
     </p>
   </div>
   <div align="center">
