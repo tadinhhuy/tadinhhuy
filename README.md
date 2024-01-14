@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Dream as if you'll live forever. Live as if you'll die today. - James Dean
+      I don't know what the future holds. All I know is, I'm good today. Real good. - Chris Farley
     </p>
   </div>
   <div align="center">
