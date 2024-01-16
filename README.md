@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      I don't know what the future holds. All I know is, I'm good today. Real good. - Chris Farley
+      Never give up. Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine. - Jack Ma
     </p>
   </div>
   <div align="center">
