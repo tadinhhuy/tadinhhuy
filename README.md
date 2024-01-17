@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Never give up. Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine. - Jack Ma
+      Nothing makes one feel so strong as a call for help. - Pope Paul VI
     </p>
   </div>
   <div align="center">
