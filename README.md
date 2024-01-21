@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Religion was a part of our home life when I was growing up. I attended Catholic school. It was a good education - for the spiritual end, as well as for its discipline. - Bil Keane
+      Yesterday I dared to struggle. Today I dare to win. - Bernadette Devlin
     </p>
   </div>
   <div align="center">
