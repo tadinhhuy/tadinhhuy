@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Yesterday I dared to struggle. Today I dare to win. - Bernadette Devlin
+      What you do today can improve all your tomorrows. - Ralph Marston
     </p>
   </div>
   <div align="center">
