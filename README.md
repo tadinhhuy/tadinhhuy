@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      The best time to plant a tree was 25 years ago. The second-best time to plant a tree is today. - Eliud Kipchoge
+      The paradoxes of today are the prejudices of tomorrow, since the most benighted and the most deplorable prejudices have had their moment of novelty when fashion lent them its fragile grace. - Marcel Proust
     </p>
   </div>
   <div align="center">
