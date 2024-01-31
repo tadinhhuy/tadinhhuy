@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      If you fell down yesterday, stand up today. - H. G. Wells
+      I don't know what the future holds. All I know is, I'm good today. Real good. - Chris Farley
     </p>
   </div>
   <div align="center">
