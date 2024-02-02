@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      I don't know what the future holds. All I know is, I'm good today. Real good. - Chris Farley
+      Worry never robs tomorrow of its sorrow, it only saps today of its joy. - Leo Buscaglia
     </p>
   </div>
   <div align="center">
