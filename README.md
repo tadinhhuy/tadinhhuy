@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Someone is sitting in the shade today because someone planted a tree a long time ago. - Warren Buffett
+      I am not afraid of tomorrow, for I have seen yesterday and I love today! - William Allen White
     </p>
   </div>
   <div align="center">
