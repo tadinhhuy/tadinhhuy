@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      I am not afraid of tomorrow, for I have seen yesterday and I love today! - William Allen White
+      Let us sacrifice our today so that our children can have a better tomorrow. - A. P. J. Abdul Kalam
     </p>
   </div>
   <div align="center">
