@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Let us sacrifice our today so that our children can have a better tomorrow. - A. P. J. Abdul Kalam
+      Do not take life too seriously. You will never get out of it alive. - Elbert Hubbard
     </p>
   </div>
   <div align="center">
