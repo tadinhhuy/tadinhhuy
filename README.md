@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Do not take life too seriously. You will never get out of it alive. - Elbert Hubbard
+      I think I've discovered the secret of life - you just hang around until you get used to it. - Charles M. Schulz
     </p>
   </div>
   <div align="center">
