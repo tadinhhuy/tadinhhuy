@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      I think I've discovered the secret of life - you just hang around until you get used to it. - Charles M. Schulz
+      Today you are you! That is truer than true! There is no one alive who is you-er than you! - Dr. Seuss
     </p>
   </div>
   <div align="center">
