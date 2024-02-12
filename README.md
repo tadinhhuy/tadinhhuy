@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Today you are you! That is truer than true! There is no one alive who is you-er than you! - Dr. Seuss
+      Tell me and I forget. Teach me and I remember. Involve me and I learn. - Benjamin Franklin
     </p>
   </div>
   <div align="center">
