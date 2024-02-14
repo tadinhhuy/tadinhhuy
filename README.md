@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Tell me and I forget. Teach me and I remember. Involve me and I learn. - Benjamin Franklin
+      Out of suffering have emerged the strongest souls; the most massive characters are seared with scars. - Khalil Gibran
     </p>
   </div>
   <div align="center">
