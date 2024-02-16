@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Out of suffering have emerged the strongest souls; the most massive characters are seared with scars. - Khalil Gibran
+      One word frees us of all the weight and pain in life. That word is love. - Sophocles
     </p>
   </div>
   <div align="center">
