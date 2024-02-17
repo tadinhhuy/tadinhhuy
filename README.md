@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      One word frees us of all the weight and pain in life. That word is love. - Sophocles
+      I like nonsense; it wakes up the brain cells. - Dr. Seuss
     </p>
   </div>
   <div align="center">
