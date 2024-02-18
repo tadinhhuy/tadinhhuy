@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      I like nonsense; it wakes up the brain cells. - Dr. Seuss
+      Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
     </p>
   </div>
   <div align="center">
