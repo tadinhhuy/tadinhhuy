@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
+      Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
     </p>
   </div>
   <div align="center">
