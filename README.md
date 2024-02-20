@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
+     Yesterday is but today's memory, and tomorrow is today's dream. - Khalil Gibran
     </p>
   </div>
   <div align="center">
