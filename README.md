@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     Yesterday is but today's memory, and tomorrow is today's dream. - Khalil Gibran
+     Today you are you! That is truer than true! There is no one alive who is you-er than you! - Dr. Seuss
     </p>
   </div>
   <div align="center">
