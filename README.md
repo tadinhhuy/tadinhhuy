@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     Today you are you! That is truer than true! There is no one alive who is you-er than you! - Dr. Seuss
+     The best preparation for tomorrow is doing your best today. - H. Jackson Brown, Jr.
     </p>
   </div>
   <div align="center">
