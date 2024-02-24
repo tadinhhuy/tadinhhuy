@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-    Yesterday's the past, tomorrow's the future, but today is a gift. That's why it's called the present. - Bil Keane
+    Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
     </p>
   </div>
   <div align="center">
