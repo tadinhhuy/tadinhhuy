@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-    Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
+    Freedom consists not in doing what we like, but in having the right to do what we ought. - Pope John Paul II
     </p>
   </div>
   <div align="center">
