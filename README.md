@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-    Freedom consists not in doing what we like, but in having the right to do what we ought. - Pope John Paul II
+    Never give up. Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine. - Jack Ma
     </p>
   </div>
   <div align="center">
