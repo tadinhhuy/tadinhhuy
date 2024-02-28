@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-    Never give up. Today is hard, tomorrow will be worse, but the day after tomorrow will be sunshine. - Jack Ma
+      If you fell down yesterday, stand up today. - H. G. Wells
     </p>
   </div>
   <div align="center">
