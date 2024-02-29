@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      If you fell down yesterday, stand up today. - H. G. Wells
+      Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
     </p>
   </div>
   <div align="center">
