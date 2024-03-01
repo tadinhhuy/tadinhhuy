@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
+      Worry never robs tomorrow of its sorrow, it only saps today of its joy. -Leo Buscaglia
     </p>
   </div>
   <div align="center">
