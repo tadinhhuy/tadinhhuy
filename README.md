@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Worry never robs tomorrow of its sorrow, it only saps today of its joy. -Leo Buscaglia
+      I'm a dreamer. I have to dream and reach for the stars, and if I miss a star then I grab a handful of clouds. - Mike Tyson
     </p>
   </div>
   <div align="center">
