@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      I'm a dreamer. I have to dream and reach for the stars, and if I miss a star then I grab a handful of clouds. - Mike Tyson
+      Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
     </p>
   </div>
   <div align="center">
