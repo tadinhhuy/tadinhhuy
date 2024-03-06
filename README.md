@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
+      The best time to plant a tree was 25 years ago. The second-best time to plant a tree is today. - Eliud Kipchoge
     </p>
   </div>
   <div align="center">
