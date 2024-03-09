@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      The best time to plant a tree was 25 years ago. The second-best time to plant a tree is today. - Eliud Kipchoge
+      What you do today can improve all your tomorrows. - Ralph Marston
     </p>
   </div>
   <div align="center">
