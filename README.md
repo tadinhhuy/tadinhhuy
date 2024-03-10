@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      What you do today can improve all your tomorrows. - Ralph Marston
+      I am not afraid of tomorrow, for I have seen yesterday and I love today! - William Allen White
     </p>
   </div>
   <div align="center">
