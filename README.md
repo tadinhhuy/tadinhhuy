@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      I am not afraid of tomorrow, for I have seen yesterday and I love today! - William Allen White
+      Worry does not empty tomorrow of its sorrow. It empties today of its strength. - Corrie Ten Boom
     </p>
   </div>
   <div align="center">
