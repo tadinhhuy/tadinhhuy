@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Worry does not empty tomorrow of its sorrow. It empties today of its strength. - Corrie Ten Boom
+      Yesterday's the past, tomorrow's the future, but today is a gift. That's why it's called the present. - Bil Keane
     </p>
   </div>
   <div align="center">
