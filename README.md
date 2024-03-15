@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      Yesterday's the past, tomorrow's the future, but today is a gift. That's why it's called the present. - Bil Keane
+      You cannot escape the responsibility of tomorrow by evading it today. - Abraham Lincoln
     </p>
   </div>
   <div align="center">
