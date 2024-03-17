@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-      You cannot escape the responsibility of tomorrow by evading it today. - Abraham Lincoln
+     What you do today can improve all your tomorrows. - Ralph Marston
     </p>
   </div>
   <div align="center">
