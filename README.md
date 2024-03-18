@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     What you do today can improve all your tomorrows. - Ralph Marston
+     Today you are you! That is truer than true! There is no one alive who is you-er than you! - Dr. Seuss
     </p>
   </div>
   <div align="center">
