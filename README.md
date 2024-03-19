@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     Today you are you! That is truer than true! There is no one alive who is you-er than you! - Dr. Seuss
+     Yesterday's the past, tomorrow's the future, but today is a gift. That's why it's called the present. - Bil Keane
     </p>
   </div>
   <div align="center">
