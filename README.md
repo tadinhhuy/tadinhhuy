@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     Yesterday's the past, tomorrow's the future, but today is a gift. That's why it's called the present. - Bil Keane
+     What you know today can affect what you do tomorrow. But what you know today cannot affect what you did yesterday. - Condoleezza Rice
     </p>
   </div>
   <div align="center">
