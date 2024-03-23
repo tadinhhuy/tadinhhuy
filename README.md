@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     What you know today can affect what you do tomorrow. But what you know today cannot affect what you did yesterday. - Condoleezza Rice
+     The paradoxes of today are the prejudices of tomorrow, since the most benighted and the most deplorable prejudices have had their moment of novelty when fashion lent them its fragile grace. - Marcel Proust
     </p>
   </div>
   <div align="center">
