@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     You just can't beat the person who never gives up. - Babe Ruth
+     Yesterday's the past, tomorrow's the future, but today is a gift. That's why it's called the present. - Bil Keane
     </p>
   </div>
   <div align="center">
