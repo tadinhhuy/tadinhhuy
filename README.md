@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     Yesterday's the past, tomorrow's the future, but today is a gift. That's why it's called the present. - Bil Keane
+     The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires. - William Arthur Ward
     </p>
   </div>
   <div align="center">
