@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires. - William Arthur Ward
+     Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
     </p>
   </div>
   <div align="center">
