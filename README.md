@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
+     Yesterday's the past, tomorrow's the future, but today is a gift. That's why it's called the present. - Bil Keane
     </p>
   </div>
   <div align="center">
