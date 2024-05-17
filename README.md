@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     Yesterday's the past, tomorrow's the future, but today is a gift. That's why it's called the present. - Bil Keane
+     There is always one moment in childhood when the door opens and lets the future in. - Graham Greene
     </p>
   </div>
   <div align="center">
