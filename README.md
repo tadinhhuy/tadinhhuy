@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     There is always one moment in childhood when the door opens and lets the future in. - Graham Greene
+     Today you are you! That is truer than true! There is no one alive who is you-er than you! - Dr. Seuss
     </p>
   </div>
   <div align="center">
