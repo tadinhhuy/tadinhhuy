@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     Someone is sitting in the shade today because someone planted a tree a long time ago. - Warren Buffett
+     What lies behind you and what lies in front of you, pales in comparison to what lies inside of you. - Ralph Waldo Emerson
     </p>
   </div>
   <div align="center">
