@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     What lies behind you and what lies in front of you, pales in comparison to what lies inside of you. - Ralph Waldo Emerson
+     Think left and think right and think low and think high. Oh, the thinks you can think up if only you try! - Dr. Seuss
     </p>
   </div>
   <div align="center">
