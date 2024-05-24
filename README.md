@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     Think left and think right and think low and think high. Oh, the thinks you can think up if only you try! - Dr. Seuss
+     All that I am, or hope to be, I owe to my angel mother. - Abraham Lincoln
     </p>
   </div>
   <div align="center">
