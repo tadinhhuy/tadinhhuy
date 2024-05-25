@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     All that I am, or hope to be, I owe to my angel mother. - Abraham Lincoln
+     The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt
     </p>
   </div>
   <div align="center">
