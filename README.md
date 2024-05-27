@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt
+     Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
     </p>
   </div>
   <div align="center">
