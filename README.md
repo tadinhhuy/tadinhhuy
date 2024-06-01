@@ -1,7 +1,7 @@
 <div>
   <div>
     <p>
-     Gratitude makes sense of our past, brings peace for today, and creates a vision for tomorrow. - Melody Beattie
+     What you do today can improve all your tomorrows. - Ralph Marston
     </p>
   </div>
   <div align="center">
